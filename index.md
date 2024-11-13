@@ -16,6 +16,3 @@ So far we are working on utilzing raw geospatial data and weather data to determ
 **4. What other techniques would you be interested in using in your project?**
 I would be interested in SVD models using various weather stations data features to predict the risk of wildifres instead of comptuting the dependency of PSPS probabilities among weather stations and the conductor spans. In other words, we are both still trying to assess wildfire risk through a wildfire score riskscore but instead of computing the probabilities manually we use an SVD model to predict the probability risk for us.
 
-This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
-
-<iframe src="assets/example-map.html" width=800 height=600 frameBorder=0></iframe>
