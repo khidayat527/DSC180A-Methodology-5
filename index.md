@@ -4,7 +4,7 @@
 
 **1. What is the most interesting topic covered in your domain this quarter?**  
 
-The most interting topic covered is working with geospatial data involving different geospatial formats including lines points, multi-polygons in which I was able to plot conductor spans, weather station locations and vegetations areas within San Diego. Moreover, it is interesting because I get to work with Big Data involving more than 700,000 rows of data which involves heavy computations with GPUs.
+The most interting topic covered is working with geospatial data involving different geospatial formats including lines, points, multi-polygons. I had no prior experience to using geospatial data and using geopanda libaries but I was able to get a hang of it at the end. Then, I was able to plot conductor spans, weather station locations and vegetations areas within San Diego which I think was cool. Moreover, it is interesting because I get to work with Big Data involving more than 700,000 rows of data which involves heavy computations with GPUs.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
